@@ -5,3 +5,8 @@ Dec 14, 2024: insert_data.sh
 Dec 14, 2024: queries.sh
 Dec 14, 2024: worldcup.sql
 
+Build a Celestial Bodies Database
+===========================
+required files
+Dec 21, 2024: universe.sql
+
